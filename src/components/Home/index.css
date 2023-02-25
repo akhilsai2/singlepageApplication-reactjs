@@ -1,0 +1,15 @@
+.image {
+  width: 250px;
+}
+.home {
+  color: #6d396b;
+  font-size: 45px;
+  font-family: 'Roboto';
+}
+.home-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
